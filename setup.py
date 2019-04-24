@@ -12,4 +12,4 @@ setup(name='yahoo_fin',
       author_email='opensourcecoder11@gmail.com',
       license='',
       packages=['yahoo_fin'],
-zip_safe=False)
+      zip_safe=False)
